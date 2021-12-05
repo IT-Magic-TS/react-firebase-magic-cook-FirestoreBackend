@@ -1,0 +1,16 @@
+.create {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.create .ingredient {
+  display: flex;
+}
+
+.create .ingredient button {
+  margin-left: 10px;
+}
+
+.create p {
+  margin-bottom: 10px;
+}
